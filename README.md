@@ -1,6 +1,6 @@
 # Tugas1_PBO_Azilzah-Nur-Zanafa_G1A022003
 
-1. Buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya.
+1. Buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman python, serta berikan contoh masing-masing code nya.
 
 Jawab :
 
